@@ -4,7 +4,7 @@ Digital Forensics
 
 ```
 
-    Total Views per Day from 2022-10-14 to 2022-11-09
+    Total Views per Day from 2022-10-14 to 2022-11-10
 
     Repository Views
    13.00  ┼    ╭╮
@@ -22,8 +22,8 @@ Digital Forensics
     2.60  ┤│   ││││    │ │ ││     ││
     1.73  ┤│   ││││    │ │ ││     ││
     0.87  ┤│   ││││╭╮  │ │ ││     ││
-    0.00  ┤╰───╯╰╯╰╯╰──╯ ╰─╯╰─────╯╰─
+    0.00  ┤╰───╯╰╯╰╯╰──╯ ╰─╯╰─────╯╰──
 
-    Chart last updated - Wed Nov  9 00:37:44 2022 UTC
+    Chart last updated - Thu Nov 10 00:36:58 2022 UTC
     
 ```
